@@ -25,7 +25,7 @@ SECRET_KEY = '*dj@-pf1=9qsoyr)(8$6o2yzs8=o1t^bco0cza5!7k$5gm9-w1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'untra.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'untraff.pythonanywhere.com']
 
 
 # Application definition
